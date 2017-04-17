@@ -1,7 +1,7 @@
 # test coverage for  [cookie-session (v1.2.0)](https://github.com/expressjs/cookie-session)  [![npm package](https://img.shields.io/npm/v/npmtest-cookie-session.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cookie-session) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cookie-session.svg)](https://travis-ci.org/npmtest/node-npmtest-cookie-session)
 #### cookie session middleware
 
-[![NPM](https://nodei.co/npm/cookie-session.png?downloads=true)](https://www.npmjs.com/package/cookie-session)
+[![NPM](https://nodei.co/npm/cookie-session.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cookie-session)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-cookie-session/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-cookie-session/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-cookie-session/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cookie-session/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cookie-session/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-cookie-session/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-cookie-session/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-cookie-session/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-cookie-session/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-cookie-session/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-cookie-session%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-cookie-session/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-cookie-session/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-cookie-session/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-cookie-session/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-cookie-session%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-cookie-session/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-cookie-session/build/test-report.html](https://npmtest.github.io/node-npmtest-cookie-session/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-cookie-session/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-cookie-session/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-cookie-session/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-cookie-session/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-cookie-session/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-cookie-session/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-cookie-session/build/screenCapture.npmPackageListing.svg)
 
@@ -63,33 +69,26 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "jongleberry",
-            "email": "jonathanrichardong@gmail.com"
+            "name": "jongleberry"
         },
         {
-            "name": "dougwilson",
-            "email": "doug@somethingdoug.com"
+            "name": "dougwilson"
         },
         {
-            "name": "tjholowaychuk",
-            "email": "tj@vision-media.ca"
+            "name": "tjholowaychuk"
         },
         {
-            "name": "mscdex",
-            "email": "mscdex@mscdex.net"
+            "name": "mscdex"
         },
         {
-            "name": "fishrock123",
-            "email": "fishrock123@rocketmail.com"
+            "name": "fishrock123"
         },
         {
-            "name": "defunctzombie",
-            "email": "shtylman@gmail.com"
+            "name": "defunctzombie"
         }
     ],
     "name": "cookie-session",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/expressjs/cookie-session.git"
