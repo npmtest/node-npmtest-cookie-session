@@ -1,4 +1,7 @@
-# test coverage for  [cookie-session (v1.2.0)](https://github.com/expressjs/cookie-session)  [![npm package](https://img.shields.io/npm/v/npmtest-cookie-session.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cookie-session) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cookie-session.svg)](https://travis-ci.org/npmtest/node-npmtest-cookie-session)
+# npmtest-cookie-session
+
+#### test coverage for  [cookie-session (v1.2.0)](https://github.com/expressjs/cookie-session)  [![npm package](https://img.shields.io/npm/v/npmtest-cookie-session.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cookie-session) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cookie-session.svg)](https://travis-ci.org/npmtest/node-npmtest-cookie-session)
+
 #### cookie session middleware
 
 [![NPM](https://nodei.co/npm/cookie-session.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cookie-session)
